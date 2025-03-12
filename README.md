@@ -60,8 +60,8 @@ Develop a **Logistic Regression** model to predict Titanic passengers' survival 
 📂 titanic-analysis
 │── 📂 EDA_Titanic.ipynb  # Exploratory Data Analysis (Project 3)
 │── 📜 Titanic_Logistic_Regression.ipynb  # Classification (Project 4)
-│── 📜 datasets  # Titanic dataset (CSV file)
 │── 📜 README.md  # Project documentation
+│── 📜 datasets  # Titanic dataset (CSV file)
 ```
 
 ---
